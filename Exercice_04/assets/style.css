@@ -1,0 +1,17 @@
+ul {
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 200px;
+}
+h1 {
+  padding: 50px 0;
+}
+
+.container {
+  background: lightgrey;
+  border-radius: 0 0 10px 10px;
+}
+
+.row {
+  background: lightgrey;
+}
